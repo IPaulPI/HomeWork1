@@ -11,7 +11,7 @@ else Console.WriteLine(num2);
 */
 // Task 4. Напишите программу, которая принимает на вход три числа и выдаёт
 // максимальное из этих чисел.
-
+/*
 Console.Write("Input a first number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input a second number: ");
@@ -31,3 +31,14 @@ else
 {
     Console.WriteLine(num3);
 }
+*/
+// Task 6. Напишите программу, которая на вход принимает число и выдаёт,
+// является ли число чётным (делится ли оно на два без остатка).
+/*
+Console.Write("Input a number: ");
+int a = Convert.ToInt32(Console.ReadLine());
+
+if(a % 2 == 0) Console.WriteLine("Yes!");
+else Console.WriteLine("No!");
+*/
+// 
